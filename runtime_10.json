@@ -1,0 +1,15 @@
+{
+  "name": "shadow-prism-5198",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 4885,
+    "createdAt": "2026-09-12T13:22:43.784Z"
+  }
+}
